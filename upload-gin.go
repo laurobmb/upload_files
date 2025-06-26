@@ -14,7 +14,7 @@ import (
 
 // Constantes da aplicação
 const (
-	maxUploadSize = 10 * 1024 * 1024 // 10 MB
+	maxUploadSize = 5 * 1024 * 1024 // 5 MB
 	uploadPath    = "./uploads"
 	appVersion    = "1.0.2" // NOVO: Versão da aplicação
 )
